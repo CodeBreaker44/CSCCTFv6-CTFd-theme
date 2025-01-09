@@ -1,4 +1,6 @@
-# PlaygroundsCTF-Theme (Egypt Edition) 
+# PlaygroundsCTF-Theme (Windows XP Edition) 
+
+## WILL UPDATE THIS LATER 
 
 Egypt theme is a Custom Colour Theme for CTFd
 

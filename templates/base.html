@@ -13,6 +13,11 @@
     {% endblock %}
 
     {{ Plugins.styles }}
+    <style>
+      .text-muted {
+        color: #fff !important;
+      }
+    </style>
     <script type="text/javascript">
         var init = {
             'urlRoot': "{{ request.script_root }}",

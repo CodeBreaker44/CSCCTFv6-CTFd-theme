@@ -671,8 +671,8 @@ mark {
 }
 
 code {
-    font-size: 87.5%;
-    color: #FFE5E5;
+    font-size: 0.9rem;
+    color: black;
     word-break: break-word
 }
 
@@ -2528,7 +2528,7 @@ fieldset:disabled a.btn {
 }
 
 .btn-success {
-    color: #fff;
+    color: #28a745;
     background-color: #6096b4 ;
     border-color: #fff
 }
@@ -2642,7 +2642,7 @@ fieldset:disabled a.btn {
 }
 
 .btn-danger {
-    color: #fff;
+    color: #dc3545;
     background-color: #dc3545;
     border-color: #dc3545
 }
@@ -4605,7 +4605,7 @@ input[type=submit].btn-block {
 
 .card-body {
     flex: 1 1 auto;
-    padding: 1.25rem
+    /* padding: 1.25rem */
 }
 
 .card-title {
@@ -9728,7 +9728,7 @@ a.text-dark:hover {
 }
 
 .text-muted {
-    color: #bfd6eb!important
+    color: blue !important
 }
 
 .text-black-50 {
@@ -11115,7 +11115,7 @@ h5,
 h6,
 a,
 p {
-    color: white !important;
+    color: white;
 }
 
 option {
